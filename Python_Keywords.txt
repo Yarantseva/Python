@@ -1,0 +1,35 @@
+Python_Keywords
+
+ - False	 
+ - True
+ - None
+ - def
+ - if
+ - elif
+ - else
+ - raise
+ - del
+ - import
+ - return
+ - in
+ - try
+ - and
+ - or
+ - not
+ - is
+ - while
+ - as
+ - except
+ - lambda
+ - with
+ - assert
+ - finally
+ - nonlocal
+ - yield
+ - break
+ - for
+ - class
+ - from
+ - continue
+ - global
+ - pass
